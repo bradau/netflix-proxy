@@ -1,3 +1,14 @@
+JAN 2019!
+
+This project is no longer viable for unlocking Netflix. 
+
+Methods used to region unlock work for most other content providers. This is for information purpposes only. etc etc blah.
+
+
+
+
+
+
 [![Build Status](https://travis-ci.org/ab77/netflix-proxy.svg?branch=master)](https://travis-ci.org/ab77/netflix-proxy) [![Docker Pulls](https://img.shields.io/docker/pulls/ab77/sniproxy.svg?maxAge=2592000)](https://hub.docker.com/r/ab77/sniproxy/) [![Docker Stars](https://img.shields.io/docker/stars/ab77/bind.svg?maxAge=2592000)](https://hub.docker.com/r/ab77/bind/)
 
 > `TL;DR`
